@@ -1,2 +1,2 @@
 # Tic-Tac-Toe with React based off Reactjs.org tutorial
-View Demo: http://yamil.ddns.net/
+View Demo: https://practical-aryabhata-3ad0d0.netlify.app/
