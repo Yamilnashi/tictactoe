@@ -70,6 +70,7 @@ const Game = () => {
   }, [winner, xIsNext, history, stepNumber]);    
   
   return (
+    {trophy()}
     <div className="game">
       <div className="game-board">
         <Board          
@@ -81,7 +82,6 @@ const Game = () => {
         <div>{status}</div>
         <ol>{moves}</ol>
       </div>
-      {trophy()}
     </div>
   );
 }
